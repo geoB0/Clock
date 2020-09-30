@@ -1,3 +1,3 @@
 # Clock
 
-A short program of a clock that works through if statements.
+A short program of a clock that works through if statements and while loops.

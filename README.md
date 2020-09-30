@@ -1,2 +1,3 @@
 # Clock
-A short program that displays a clock.
+
+A short program of a clock that works through if statements.
